@@ -11,3 +11,5 @@ Libraries used :
 [sliver_fab: ^1.0.0](https://pub.dartlang.org/packages/path_provider)
 
 [image_picker: ^0.5.0+3](https://pub.dartlang.org/packages/sqflite)
+
+(Storing images on SQLIte (BLOB) will be comming soon)
