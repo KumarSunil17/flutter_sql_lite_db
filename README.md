@@ -1,16 +1,15 @@
 # flutter_sql_lite_db
 
-A new Flutter application.
+A Flutter application to dmonstrate SQLite database.
 
-## Getting Started
+Libraries used :
 
-This project is a starting point for a Flutter application.
+[sqflite: ^0.12.2+1](https://pub.dartlang.org/packages/image_picker)
 
-A few resources to get you started if this is your first Flutter project:
+[path_provider: ^0.4.1](https://pub.dartlang.org/packages/sliver_fab)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+[sliver_fab: ^1.0.0](https://pub.dartlang.org/packages/path_provider)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[image_picker: ^0.5.0+3](https://pub.dartlang.org/packages/sqflite)
+
+(Storing images on SQLIte (BLOB) will be comming soon)
